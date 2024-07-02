@@ -8,8 +8,9 @@ Miscellaneous:
   * [Game of Life](https://github.com/andre487/game-of-life) – an implementation of Conway's Game of Life on TS + Parcel; you can try it on [life.underlime.net](https://life.underlime.net)
   * [asm-primes](https://github.com/andre487/asm-primes) – a programm on NASM that calculates a sum of primes; was written only for assembler fun
 
-JS/TS stuff:
+Libraries:
 
+  * [go-background-task-scheduler](https://github.com/andre487/go-background-task-scheduler) – scheduler for running in-process background tasks on Go; can be persistent using bbolt
   * [node-console-progress-bar-tqdm](https://github.com/andre487/node-console-progress-bar-tqdm) – progress bar for CLI on Node.js (TS) with an interface that very similar to Python's TQDM
   * [node-linkify-lite](https://github.com/andre487/node-linkify-lite) – very lightweight library for replacing URLs in a text with HTML links; doesn't support TS for now, but if someone asks, I'll do it
 
