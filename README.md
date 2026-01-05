@@ -17,10 +17,9 @@ Libraries:
 Utilities:
 
   * [dotfiles](https://github.com/andre487/dotfiles) – config files for *nix systems: zsh, tmux, vim, git and others, some useful scripts
-  * [sms487](https://github.com/andre487/sms487) – an Android app (on Java) and a server (on Python + MongoDB) for sending notifications from a phone to other devices
+  * [sms487](https://github.com/andre487/sms487) – an Android app (on Java) and a server (on Go) for sending notifications from a phone to SQS
   * [publish-to-orphan-gh-pages](https://github.com/andre487/publish-to-orphan-gh-pages) - a GitHub action (on JS) that I use for publishing my GitHub pages
   * [infrastructure](https://github.com/andre487/infrastructure) – some Ansible playbooks ans shell scripts for deploying server solutions
-  * [dumbproxy-log-monitor](https://github.com/andre487/dumbproxy-log-monitor) – I use proxy servers based on [dumbproxy](https://github.com/SenseUnit/dumbproxy) and this utility (on Go + SQLite) for monitoring activity in their logs
   * [huegrok](https://github.com/andre487/huegrok) – since Ngrok isn't available anymore in my location, I created my own solution with Bash and Ansible; simple but good enough for my tasks
   * [github-repos-backuper](https://github.com/andre487/github-repos-backuper) – nobody knows the future of GitHub there, so I have this utility for periodically backing up of my repositories; it clones all of them to a local storage
   * [busybox-utils](https://github.com/andre487/busybox-utils) – utils based on Busybox for environments where are no package managers and a lack of useful utils
