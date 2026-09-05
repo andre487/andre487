@@ -10,7 +10,6 @@ MegaProxy:
 Libraries:
 
   * [node-console-progress-bar-tqdm](https://github.com/andre487/node-console-progress-bar-tqdm) – progress bar for CLI on Node.js (TS) with an interface that very similar to Python's TQDM
-  * [go-background-task-scheduler](https://github.com/andre487/go-background-task-scheduler) – scheduler for running in-process background tasks on Go; can be persistent using bbolt
   * [node-linkify-lite](https://github.com/andre487/node-linkify-lite) – very lightweight library for replacing URLs in a text with HTML links; doesn't support TS for now, but if someone asks, I'll do it
 
 Miscellaneous:
@@ -23,8 +22,5 @@ Utilities:
 
   * [sms487](https://github.com/andre487/sms487) – an Android app (on Java) and a server (on Go) for sending notifications from a phone to SQS
   * [dotfiles](https://github.com/andre487/dotfiles) – config files for *nix systems: zsh, tmux, vim, git and others, some useful scripts
-  * [publish-to-orphan-gh-pages](https://github.com/andre487/publish-to-orphan-gh-pages) - a GitHub action (on JS) that I use for publishing my GitHub pages
-  * [infrastructure](https://github.com/andre487/infrastructure) – some Ansible playbooks ans shell scripts for deploying server solutions
   * [huegrok](https://github.com/andre487/huegrok) – since Ngrok isn't available anymore in my location, I created my own solution with Bash and Ansible; simple but good enough for my tasks
   * [github-repos-backuper](https://github.com/andre487/github-repos-backuper) – nobody knows the future of GitHub there, so I have this utility for periodically backing up of my repositories; it clones all of them to a local storage
-  * [busybox-utils](https://github.com/andre487/busybox-utils) – utils based on Busybox for environments where are no package managers and a lack of useful utils
