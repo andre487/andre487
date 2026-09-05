@@ -2,6 +2,11 @@
 
 My name is Andrey, I'm usually working on my own projects here, on GitHub. There are a lot of utilities for solving different tasks that appear in my Internet life; and some projects are made just for fun.
 
+MegaProxy:
+
+  * [Android client](https://github.com/andre487/AndroidMegaProxy) – an Android client for custom proxies (HTTPS, SSH, SSH + jump host) with split tunneling
+  * [Server config tool](https://github.com/andre487/MegaProxyServer) – with this tool or playbooks that it includes one can setup own server
+
 Libraries:
 
   * [node-console-progress-bar-tqdm](https://github.com/andre487/node-console-progress-bar-tqdm) – progress bar for CLI on Node.js (TS) with an interface that very similar to Python's TQDM
