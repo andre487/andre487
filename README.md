@@ -20,7 +20,7 @@ Miscellaneous:
 
 Utilities:
 
-  * [sms487](https://github.com/andre487/sms487) – an Android app (on Java) and a server (on Go) for sending notifications from a phone to SQS
+  * [Message487](https://github.com/andre487/AndroidMessage487) – an Android app for sending notifications from a phone to n8n or a custom webhook
   * [dotfiles](https://github.com/andre487/dotfiles) – config files for *nix systems: zsh, tmux, vim, git and others, some useful scripts
   * [huegrok](https://github.com/andre487/huegrok) – since Ngrok isn't available anymore in my location, I created my own solution with Bash and Ansible; simple but good enough for my tasks
   * [github-repos-backuper](https://github.com/andre487/github-repos-backuper) – nobody knows the future of GitHub there, so I have this utility for periodically backing up of my repositories; it clones all of them to a local storage
