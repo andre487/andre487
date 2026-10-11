@@ -5,6 +5,7 @@ My name is Andrey, I'm usually working on my own projects here, on GitHub. There
 MegaProxy:
 
   * [Android client](https://github.com/andre487/AndroidMegaProxy) – an Android client for custom proxies (HTTPS, SSH, SSH + jump host) with split tunneling
+  * [Browser extension](https://github.com/andre487/BrowserMegaProxy) – Chrome and Firefox extension for proxy management with extra features like knock host for masked proxy
   * [Server config tool](https://github.com/andre487/MegaProxyServer) – with this tool or playbooks that it includes one can setup own server
 
 Libraries:
